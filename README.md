@@ -1,4 +1,4 @@
-# PolitWineTeamPipe
+# PolitWineTeamRocketl
 INFORMATION
 
 Плагин добавляет ракетницу и заряды для нее. На ней можно подпрыгивать и отталкивать других
